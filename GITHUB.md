@@ -3,7 +3,7 @@
 
 
 \*\*Repository name:\*\* `ascii-snake`
-
+ 
 
 
 \*\*Description:\*\* Minimal Python terminal Snake with a dark ASCII grid, custom board size, and a never-losing Zen autoplay mode.
